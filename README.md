@@ -8,9 +8,9 @@
 
 * [Daniel Rodríguez Martín](https://alu0100886764.github.io)
 
-# Práctica desplegada en el IaaS
+# Acceder al conversor
 
-* [Iaas](https://10.6.128.107:8086)
+* [Gh-pages](https://ull-esit-dsi-1617.github.io/eliminando-switch-smell-gabriel-danid-danir-l1/)
 
 # Campus de la asignatura
 
